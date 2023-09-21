@@ -629,7 +629,7 @@ button:hover {
     }
     /*   */
     .online-img>div img{
-        width:73%;
+        width:60%;
     }
     .online-img>div p{
         width:100%;
@@ -688,17 +688,17 @@ button:hover {
     }
 
     .horse {
-        width: 85%;
-        margin-left: 11%;
+        width: 70%;
+        margin-left: 17%;
         position: relative;
     }
 
 
     .cat {
-        width: 36%;
+        width: 30%;
         position: absolute;
-        top: 60%;
-        left: 0;
+        top: 57%;
+        left: 9%;
     }
 
     .action {

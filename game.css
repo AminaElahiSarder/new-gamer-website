@@ -689,7 +689,7 @@ button:hover {
 
     .horse {
         width: 85%;
-        margin-left: 17%;
+        margin-left: 11%;
         position: relative;
     }
 
@@ -698,7 +698,7 @@ button:hover {
         width: 36%;
         position: absolute;
         top: 60%;
-        left: 6%;
+        left: 0;
     }
 
     .action {
